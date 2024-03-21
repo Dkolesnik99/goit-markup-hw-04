@@ -59,6 +59,7 @@ body {
     width: 1158px;
     margin: 0 auto;
     padding: 0 15px 0 15px;
+    border: 1px solid #8e8f99;
 }
 
 .button-click {
@@ -197,13 +198,6 @@ p {
     letter-spacing: 0.02em;
 }
 
-.container-with-border {
-border: 1px solid #8e8f99;
-}
-
-.container {
-    border: 1px solid #8e8f99;
-}
 
 .list-section-two {
     display: flex;
